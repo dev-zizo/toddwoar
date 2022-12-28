@@ -1,6 +1,6 @@
 @echo off
 echo CACHE MANIFEST > temp0.txt
-echo # toddwoar | best host for 5.05 >> temp0.txt
+echo # toddwoar | best 5.05 host >> temp0.txt
 echo # %DATE%-%TIME% >> temp0.txt
 echo. >> temp0.txt
 
